@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+aprovados.csv
+processamento.log
